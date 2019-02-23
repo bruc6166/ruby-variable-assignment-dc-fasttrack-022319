@@ -1,6 +1,6 @@
 greeting = "Hello World"
 
-puts {greeting}
+puts #{greeting}
 
 # Code your solution in variable.rb
 describe "./variable.rb" do
